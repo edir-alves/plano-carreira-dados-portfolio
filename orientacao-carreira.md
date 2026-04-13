@@ -114,11 +114,3 @@ Este direcionamento leva em consideração:
 - Aproveitamento da experiência prévia  
 - Tendências atuais do mercado de tecnologia  
 
----
-
-## 💡 Próximos Passos (Roadmap Inicial)  
-
-- Aprender fundamentos de análise de dados  
-- Desenvolver projetos práticos  
-- Criar portfólio no GitHub  
-- Iniciar networking na área  
