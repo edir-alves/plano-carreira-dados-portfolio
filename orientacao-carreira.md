@@ -1,4 +1,4 @@
-# 🚀 Relatório de Orientação de Carreira em Tecnologia  
+# 🚀 Relatório de Orientação de Carreira em Tecnologia 
 
 ## 👤 Perfil do Profissional  
 
